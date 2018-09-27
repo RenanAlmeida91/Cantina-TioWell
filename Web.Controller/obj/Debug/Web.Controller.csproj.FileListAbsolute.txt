@@ -1,0 +1,6 @@
+C:\Users\NET-VM\Documents\Visual Studio 2017\Projects\ProjetoCantina2\Web.Controller\bin\Debug\Web.Controller.dll
+C:\Users\NET-VM\Documents\Visual Studio 2017\Projects\ProjetoCantina2\Web.Controller\bin\Debug\Web.Controller.pdb
+C:\Users\NET-VM\Documents\Visual Studio 2017\Projects\ProjetoCantina2\Web.Controller\obj\Debug\Web.Controller.csprojAssemblyReference.cache
+C:\Users\NET-VM\Documents\Visual Studio 2017\Projects\ProjetoCantina2\Web.Controller\obj\Debug\Web.Controller.csproj.CoreCompileInputs.cache
+C:\Users\NET-VM\Documents\Visual Studio 2017\Projects\ProjetoCantina2\Web.Controller\obj\Debug\Web.Controller.dll
+C:\Users\NET-VM\Documents\Visual Studio 2017\Projects\ProjetoCantina2\Web.Controller\obj\Debug\Web.Controller.pdb
